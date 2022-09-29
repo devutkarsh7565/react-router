@@ -6,6 +6,7 @@ const Error = () => {
       <h1 className="text-4xl font-medium text-red-700">
         Error in find this page madharchode saala
       </h1>
+      <p> Error in find this page madharchode saala</p>
     </div>
   );
 };
