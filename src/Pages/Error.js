@@ -7,6 +7,7 @@ const Error = () => {
         Error in find this page madharchode saala
       </h1>
       <p> Error in find this page madharchode saala</p>
+      <div className="w-40 h-40 bg-red-500">hello</div>
     </div>
   );
 };
